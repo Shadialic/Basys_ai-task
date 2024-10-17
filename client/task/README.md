@@ -166,10 +166,10 @@ Fetch a list of all prior authorization requests.
 Frontend Details
 The frontend consists of the following key components:
 
-Dashboard Component: Displays the list of patients and includes a search bar for filtering.
-PatientDetail Component: Shows detailed information of a selected patient.
-AuthorizationForm Component: Allows submission of prior authorization requests with client-side validation.
-Responsive Design: Achieved using Tailwind CSS or Bootstrap, ensuring the application works smoothly on both desktop and mobile devices.
+1.Dashboard Component: Displays the list of patients and includes a search bar for filtering.
+2.PatientDetail Component: Shows detailed information of a selected patient.
+3.AuthorizationForm Component: Allows submission of prior authorization requests with client-side validation.
+4.Responsive Design: Achieved using Tailwind CSS or Bootstrap, ensuring the application works smoothly on both desktop and mobile devices.
 
 
 Backend Details:
